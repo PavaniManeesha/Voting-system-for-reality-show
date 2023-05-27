@@ -1,0 +1,57 @@
+input[type=text]{
+  margin: 35px;
+}
+
+.contacttable{
+  margin: auto;
+  width: 60%;
+}
+input [type=text] input [type=password] {
+  border-radius: 35px;
+}
+
+.codiv{
+  text-align: center;
+  font-size: 20px;
+  position: sticky;
+  color: white;
+  font-family:New Century Schoolbook;
+  }
+input.txt{
+  width: 30%;
+  padding: 60px 150px;
+  margin: 20px 0;
+  border-radius: 15px;
+}
+input[type=text],[type=email],[type=textarea], textarea{
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-radius: 15px;
+  width: 100%;
+}
+input.txt{
+  width: 30%;
+  padding: 60px 150px;
+  margin: 20px 0;
+}
+h1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color:darkblue;
+}
+         
+.btn {
+  border: none;
+  border-radius: 15px;
+  color:black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #04aa6dc5;
+  width: 100%;
+}

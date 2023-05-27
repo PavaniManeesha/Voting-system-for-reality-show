@@ -1,0 +1,159 @@
+/*able tr td{
+   
+   border:1px solid white;
+   
+   margin: 15px;
+   padding: 15px;
+   position: sticky;
+   
+}
+*/
+
+.signintable {
+   margin: auto;
+  position: sticky;
+  width: 70%;
+
+   padding: 10px; 
+}
+.avatar {
+   position: sticky;
+ width: 40px;
+ height: auto;
+ border-radius: 50%;
+ float: right;
+ /*
+ margin-left: 50%;
+ margin-right: 50%;
+ */
+}
+input[type="text"] , input[type="password"]{
+   border-radius: 10px;
+   width: 100%;
+   padding: 12px 20px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+.submit {
+   background-color: #04AA6D;
+   color: Black;
+   padding: 10px 10px;
+   margin: none;
+   border: none;
+   cursor: pointer;
+   width: 100%;
+   float: center;
+  }
+.psw {
+   float: center;
+  }
+  .fs {
+   padding: 10px;
+  font-size: 10px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  margin: auto;
+ 
+}
+  .fa:hover {
+   opacity: 0.7;
+}
+
+.facebook {
+ background: #3B5998;
+ color: white;
+ font-size: 25px;
+ width: 100%;
+ text-align: center;
+ text-decoration: none;
+ margin: auto;
+}
+
+
+
+
+
+/*
+.imgcontainer {
+   text-align: center;
+   margin: 5px 0 5px 0;
+   float: left;
+   position:sticky
+  }
+
+
+ input[type=text], input[type=password] {
+ width: 90%;
+ padding: 12px 20px;
+ margin: 8px 0;
+ 
+}
+
+.submit {
+ background-color: #04AA6D;
+ color: Black;
+ padding: 10px 10px;
+ margin: none;
+ border: none;
+ cursor: pointer;
+ width: 30%;
+ float: center;
+}
+
+.social{
+   margin-bottom: 20px;
+   width: 220px;
+   height: 36px;
+   border-radius: 2px;
+   font-size: 15px;
+   transition: 0.2s;
+   color: #fff;
+}
+
+.facebook{
+   background: #32508e;
+   cursor: pointer;
+}
+
+.twitter{
+   background: #55acee;
+   cursor: pointer;
+}
+#Video {
+position:fixed ;
+ right:0px;
+ left:8px;
+ top:120px;
+ bottom: 100px;
+ min-width: 40%;
+ min-height: 50%;
+}
+.fa {
+  padding: 20px;
+ font-size: 10px;
+ width: 100px;
+ text-align: center;
+ text-decoration: none;
+ margin: 5px 2px;
+
+}
+
+.fa:hover {
+   opacity: 0.7;
+}
+
+.fa-facebook {
+ background: #3B5998;
+ color: white;
+}
+.fa-youtube {
+ background: #bb0000;
+ color: white;
+}
+.QR{
+   width:100px;
+   float:right;
+   
+}
+*/
